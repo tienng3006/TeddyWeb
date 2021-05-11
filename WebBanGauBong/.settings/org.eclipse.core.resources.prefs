@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/admin/controller/CateController.java=UTF-8
+encoding//src/admin/controller/ControllerProductManage.java=UTF-8
+encoding//src/admin/controller/OrderController.java=UTF-8
+encoding//src/admin/controller/UserController.java=UTF-8
+encoding//src/client/controller/WelcomeController.java=UTF-8
+encoding//src/client/controller/cartController.java=UTF-8
+encoding//src/client/controller/checkoutController.java=UTF-8
+encoding//src/client/controller/register.java=UTF-8
+encoding//src/interceptor/securityClient.java=UTF-8
+encoding//src/web/entity/Category.java=UTF-8
+encoding//src/web/entity/Product.java=UTF-8
+encoding//src/web/entity/Status.java=UTF-8
+encoding//src/web/entity/User.java=UTF-8
